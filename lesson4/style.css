@@ -96,28 +96,24 @@
   padding-top: 102px;
 }
 
-.levels {
+.list {
   width: 30%;
   display: inline-block;
-}
-.list {
   padding: 0px;
   margin: 18px;
 }
 .treck1 {
   list-style-type: none;
-  height: 53px;
   border: 2px;
   background: rgb(51, 51, 51);
   font-family: "Raleway", sans-serif;
   font-size: 16px;
   font-weight: bold;
-  padding-top: 18px;
+  padding-top: 12px;
   color: #ffffff;
 }
 .treck2 {
   list-style-type: none;
-  height: 100px;
   margin-top: 2px;
   border: 2px;
   background: rgb(51, 51, 51);
@@ -129,7 +125,6 @@
 }
 .treck3 {
   list-style-type: none;
-  height: 50px;
   margin-top: 2px;
   border: 2px;
   background: rgb(51, 51, 51);
@@ -158,7 +153,6 @@
 }
 .treck {
   list-style-type: none;
-  height: 50px;
   margin-top: 2px;
   border: 2px;
   background: rgb(255, 255, 255);
